@@ -1,0 +1,56 @@
+.filter-container {
+  list-style-type: none;
+}
+
+.job-container {
+  display: flex;
+  background-color: black;
+  color: #f8fafc;
+}
+
+.heading-filter {
+  font-size: 15px;
+}
+.line {
+  margin-top: 15px;
+  width: 220px;
+}
+
+.search-bar {
+  display: flex;
+  margin-left: 10px;
+}
+
+.input-search {
+  margin-top: 10px;
+  background-color: transparent;
+  width: 250px;
+  border-color: #7e858e;
+  border-style: solid;
+  border-width: 1px;
+  color: #7e858e;
+}
+.search-icon {
+  margin-top: 10px;
+  height: 20px;
+  width: 20px;
+  padding: 2px;
+  background-color: #202020;
+  color: #7e858e;
+}
+
+.job-list-container {
+  list-style: none;
+}
+
+.search-jobs-container {
+  display: flex;
+}
+
+.search-button {
+  height: 30px;
+  width: 30px;
+  background-color: transparent;
+  border-width: 0px;
+  border-style: none;
+}
